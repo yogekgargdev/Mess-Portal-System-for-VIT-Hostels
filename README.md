@@ -13,26 +13,26 @@ https://www.scribd.com/document/446119960/Smart-Paid-Vit-Mess-Systems
 CUSTOMER WINDOW:
 
 ![](Mess%20Portal%20System%20VIT%20Code/images/customer1.PNG)
-![](images/customer2.PNG)
-![](images/customer3.PNG)
+![](Mess%20Portal%20System%20VIT%20Code/images/customer2.PNG)
+![](Mess%20Portal%20System%20VIT%20Code/images/customer3.PNG)
 
 ADMIN WINDOW:
 
-![](images/admin1.PNG)
-![](images/admin2.PNG)
-![](images/admin3.PNG)
+![](Mess%20Portal%20System%20VIT%20Code/images/admin1.PNG)
+![](Mess%20Portal%20System%20VIT%20Code/images/admin2.PNG)
+![](Mess%20Portal%20System%20VIT%20Code/images/admin3.PNG)
 
 RELATIONSHIP TABLE:
 
-![](images/rtable.PNG)
+![](Mess%20Portal%20System%20VIT%20Code/images/rtable.PNG)
 
 ER DIAGRAM:
 
-![](images/Capture.PNG)
+![](Mess%20Portal%20System%20VIT%20Code/images/Capture.PNG)
 
 DATABASE:
 
-![](images/data1.PNG)
-![](images/data2.PNG)
-![](images/data3.PNG)
+![](Mess%20Portal%20System%20VIT%20Code/images/data1.PNG)
+![](Mess%20Portal%20System%20VIT%20Code/images/data2.PNG)
+![](Mess%20Portal%20System%20VIT%20Code/images/data3.PNG)
 
