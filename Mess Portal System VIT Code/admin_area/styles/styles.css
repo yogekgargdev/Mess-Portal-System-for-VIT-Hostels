@@ -1,0 +1,44 @@
+body{
+    background:#666;
+}
+.wrapper{
+    width:1000px;
+    height:auto;
+    margin:auto;
+    background:#FFF;
+}
+
+.header{
+    width:1000px;
+    height:120px;
+    border-bottom:10px groove #F90;
+    background:url(bg_header.jpg)
+}
+
+.left{
+    width:794px;
+    height:800px;
+    background:#FFF;
+    float:left;
+}
+
+.right{
+    width:200px;
+    height:800px;
+    border-left:6px groove #F90;
+    float:right;
+    background:#1076a6;
+}
+.right a{
+    text-decoration:none;
+    color:#FFF;
+    font-size:18px;
+    font-family:"Platino Linotype",""Book Antiqua",Platino,serif;
+    text-align:left;
+    padding:6px;
+    margin-bottom:6px;
+    display:block;
+}
+
+.right a:hover{text-decoration:underline;font-weight:bolder;}
+.right a:visited{color:#FFF;}
